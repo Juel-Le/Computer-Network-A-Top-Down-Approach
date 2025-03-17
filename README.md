@@ -15,7 +15,7 @@ This repository contains all the learning materials for the classical book on co
 
 [Python Labs](./Programming_Assignments) : write python programs to implement real Internet protocols.
 
-[Slides](./slides) : The slides used in online lectures.
+[Slides](./slides_v8) : The slides used in online lectures.
 
 Self-Assessment Quiz : small quiz for each chapter
 
