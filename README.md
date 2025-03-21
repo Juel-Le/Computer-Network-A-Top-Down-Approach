@@ -17,6 +17,8 @@ This repository contains all the learning materials for the classical book on co
 
 [Slides](./slides_v8) : The slides used in online lectures.
 
+[Codes](./codes) : The codes shown in online lectures.
+
 Self-Assessment Quiz : small quiz for each chapter
 
 - [Interactive end-of-chapter exercises](https://gaia.cs.umass.edu/kurose_ross/interactive/) 
